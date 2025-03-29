@@ -1,0 +1,5 @@
+/.vscode
+/a.out
+/pg_hba.conf
+/pgdata
+/test.cpp

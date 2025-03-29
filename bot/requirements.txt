@@ -1,0 +1,7 @@
+python-telegram-bot[job-queue]==20.3
+requests==2.31.0
+flask==2.0.1
+flask-cors==3.0.10
+werkzeug==2.0.2
+aiohttp==3.8.5
+asyncio==3.4.3
