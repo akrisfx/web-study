@@ -2,4 +2,5 @@
 /a.out
 /pg_hba.conf
 /pgdata
-/test.cpp
+/test.cppbackend/go.sum
+backend/go.mod
