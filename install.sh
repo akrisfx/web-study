@@ -22,3 +22,4 @@ chmod +x /home/akri/web_university/start.sh
 echo "Установка завершена!"
 echo "Теперь вы можете запустить систему с помощью команды:"
 echo "/home/akri/web_university/start.sh"
+
