@@ -23,7 +23,7 @@ jobs:
 
     - name: Initialize Go module
       run: go mod init
-      working-directory: ./../../backend
+      working-directory: ./backend
 
     - name: Build
       run: go build -v ./../../backend
